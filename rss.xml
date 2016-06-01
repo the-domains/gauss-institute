@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Foundation for New Technologies, Innovations, and Knowledge Transfer]]></title>
+        <description><![CDATA[Foundation for New Technologies, Innovations, and Knowledge Transfer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 01 Jun 2016 23:03:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Gauss Institute is a Foundation for New Technologies, Innovations, and Knowledge Transfer, established on 15 August 2006 in Bitola, Republic of Macedonia. Gauss Institute continues activities of previously active foundation Euro-regional Technology Center – Bitola, which was established by Faculty of Technical Sciences, University “St. Kliment Ohridski” – Bitola and Municipality Bitola with the support of the GTZ-Technology Transfer project. Euro-regional Technology Center should stop its operation because of legal restriction imposed by changes in the Law for Higher Education in the Republic of Macedonia, which introduced integrated university and restricts faculties to be founders of separate legal entities. The role of the establishment of the foundation is through development and application of new technologies, innovations, and knowledge transfer to contribute toward the establishment of a knowledge-based society in the region. A knowledge-based society is an innovative and life-long learning society, which possesses a community of scholars, researchers, engineers, technicians, research networks, and firms engaged in research and in the production of high-technology goods and service provision. It forms a national innovation-production system, which is integrated into international networks of knowledge production, diffusion, utilization, and protection. Its communication and information technological tools make vast amounts of human knowledge easily accessible. Knowledge is used to empower and enrich people culturally and materially, and to build an eco-friendly sustainable society. </p>]]></description>
+            <link>undefinedgauss-institute-is-a-foundation-for-new-technologies-innova/index.html</link>
+            <guid isPermaLink="false">47b5578b-5bfc-41e7-a920-61787df171b6</guid>
+            <pubDate>Wed, 01 Jun 2016 23:03:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
